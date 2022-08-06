@@ -1,0 +1,35 @@
+{
+  "name": "shop-app-nodejs",
+  "version": "1.0.0",
+  "description": "Conception Api for Shop  App ",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run jest --watch -a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anse-dev/api-shop-app-nodejs.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "mongodb",
+    "mvc",
+    "test"
+  ],
+  "author": "Jean Anselme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anse-dev/api-shop-app-nodejs/issues"
+  },
+  "homepage": "https://github.com/Anse-dev/api-shop-app-nodejs#readme"
+}
