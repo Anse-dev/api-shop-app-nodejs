@@ -2,7 +2,7 @@
   "name": "shop-app-nodejs",
   "version": "1.0.0",
   "description": "Conception Api for Shop  App ",
-  "main": "server.js",
+  "main": "src/server.js",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "dotenv": "^16.0.1",
